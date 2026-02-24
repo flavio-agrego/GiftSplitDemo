@@ -64,8 +64,6 @@ Solo se permite registro con rol "regalador" ya que es una demo funcional.
 
 ---
 
+## Autor
+
 Martinez Elio Flavio.
-
-## 👨‍💻 Autor
-
-Proyecto Final - Desarrollo Mobile
