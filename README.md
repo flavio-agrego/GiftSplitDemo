@@ -1,4 +1,4 @@
-# GiftSplit Demo - Proyecto Final React Native
+# GiftSplit Demo
 
 Aplicación móvil desarrollada como proyecto final del curso.
 
